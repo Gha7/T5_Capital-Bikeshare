@@ -21,7 +21,7 @@ This data has 17,379 rows, 14 columns.
 | 6  | Working Day | Does the day is working day or not  |
 | 7  | Weather Type | Weather Type -> 1=Sunny 2=Cloudy 3=Windy 4=Rainy |
 | 8  | Temperature F | Normalized temperature in fehrenhite |
-| 9  | Temperature Feels F | Normalized feeling temperature in fehrenhite |
+| 9  | Temperature Feels F  | Normalized feeling temperature in fehrenhite |
 | 10 | Humidity | Normalized humidity |
 | 11 | Wind Speed | Normalized wind speed |
 | 12 | Casual Users | Count of casual users |
