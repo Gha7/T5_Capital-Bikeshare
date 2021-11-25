@@ -4,6 +4,7 @@ This is a data set of Capital Bikeshare users on an hourly basis across Washingt
 This data was gathered from 2011 - 2012 and it is created by 
 Data Society.
 
+![](Images/capital-bikeshare-logo.png)
 - Link: [data.world](https://data.world/data-society/capital-bikeshare-2011-2012).
 - Or you can download it from the attached file.
 
