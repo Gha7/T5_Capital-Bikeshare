@@ -10,20 +10,23 @@ Data Society.
 # Dataset Description:
 This data has 17,379 rows, 14 columns.
 
-- Date
-- Season
-- Hour
-- Holiday
-- Day of the Week
-- Working Day
-- Weather Type
-- Temperature F
-- Temperature Feels F
-- Humidity
-- Wind Speed
-- Casual Users
-- Registered Users
-- Total Users
+
+| Command | Description |
+| --- | --- |
+| Date | List all new or modified files |
+| Season | Show file differences that haven't been staged |
+| Hour | List all new or modified files |
+| Holiday | Show file differences that haven't been staged |
+| Day of the Week | List all new or modified files |
+| Working Day | Show file differences that haven't been staged |
+| Weather Type | List all new or modified files |
+| Temperature F | Show file differences that haven't been staged |
+| Temperature Feels F | List all new or modified files |
+| Humidity | Show file differences that haven't been staged |
+| Wind Speed | List all new or modified files |
+| Casual Users | Show file differences that haven't been staged |
+| Registered Users | List all new or modified files |
+| Total Users | Show file differences that haven't been staged |
 
 # Tools:
 - Jupyter notebook
@@ -40,7 +43,8 @@ This data has 17,379 rows, 14 columns.
 - Can we predict the total users based on season, day of the week, weather type, temperature and humidity?
 
 # Algorithms:
-
+- Linear Regression
+- Time Series Data
 
 # MVP:
 The MVP goal is to answer at least three of the mentioned questions.
@@ -50,8 +54,3 @@ The MVP goal is to answer at least three of the mentioned questions.
 - [@Gha7](https://github.com/Gha7)
 - [@sole3](https://github.com/sole3)
 - [@MahaAlHarqan](https://github.com/MahaAlHarqan)
-
-
-
-
-
