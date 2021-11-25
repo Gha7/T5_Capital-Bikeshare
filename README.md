@@ -13,20 +13,20 @@ This data has 17,379 rows, 14 columns.
 
 | Command | Description |
 | --- | --- |
-| Date | List all new or modified files |
-| Season | Show file differences that haven't been staged |
-| Hour | List all new or modified files |
-| Holiday | Show file differences that haven't been staged |
-| Day of the Week | List all new or modified files |
-| Working Day | Show file differences that haven't been staged |
-| Weather Type | List all new or modified files |
-| Temperature F | Show file differences that haven't been staged |
-| Temperature Feels F | List all new or modified files |
-| Humidity | Show file differences that haven't been staged |
-| Wind Speed | List all new or modified files |
-| Casual Users | Show file differences that haven't been staged |
-| Registered Users | List all new or modified files |
-| Total Users | Show file differences that haven't been staged |
+| Date | The date of the day |
+| Season | Seasons of the year -> 1=Spring 2=Summer 3=Fall 4=Winter |
+| Hour | Hour (0 to 23) |
+| Holiday | Is this Day is holiday or not |
+| Day of the Week | Day of the week (0 to 6) |
+| Working Day | Does the day is working day or not  |
+| Weather Type | Weather Type -> 1=Sunny 2=Cloudy 3=Windy 4=Rainy |
+| Temperature F | Normalized temperature in fehrenhite |
+| Temperature Feels F | Normalized feeling temperature in fehrenhite |
+| Humidity | Normalized humidity |
+| Wind Speed | Normalized wind speed |
+| Casual Users | Count of casual users |
+| Registered Users | Count of registered users |
+| Total Users | Count of total rental bikes including both casual and registered |
 
 # Tools:
 - Jupyter notebook
