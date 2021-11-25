@@ -34,6 +34,8 @@ This data has 17,379 rows, 14 columns.
 # Questions:
 
 
+# Algorithms:
+
 
 # MVP:
 The MVP goal is to answer at least three of the mentioned questions.
