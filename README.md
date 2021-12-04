@@ -33,8 +33,8 @@ This data has 17,379 rows, 14 columns.
 - Jupyter notebook
 - Libraries(Pandas,Numpy,matplotlib,seaborn,plotly)
 - Git Bash
-- Trello
 - Zoom
+
 
 # Questions:
 - What are the most crowded days and what time was it?
