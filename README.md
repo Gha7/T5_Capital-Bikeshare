@@ -41,11 +41,8 @@ This data has 17,379 rows, 14 columns.
 - What is the difference between registered and casual users?
 - How does the season affect the number of users?
 - Did the low temperature in winter affect the registered users?
-#### Prediction Question:
-- Can we predict the total users based on season, temperature, Hour, Registered Users, Casual Users.
 
 # Algorithms:
-- Linear Regression
 - Time Series Data
 
 # MVP:
