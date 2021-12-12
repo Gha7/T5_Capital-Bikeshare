@@ -29,6 +29,7 @@ This data has 17,379 rows, 14 columns.
 | 13 | Registered Users | Count of registered users |
 | 14 | Total Users | Count of total rental bikes including both casual and registered |
 
+
 # Tools:
 - Jupyter notebook
 - Libraries(Pandas,Numpy,matplotlib,seaborn,plotly)
@@ -50,6 +51,6 @@ The MVP goal is to answer at least three of the mentioned questions.
 
 ## Authors
 
-- [@Gha7](https://github.com/Gha7)
+- [@GhassanAlrehaili](https://github.com/GhassanAlrehaili)
 - [@sole3](https://github.com/sole3)
 - [@MahaAlHarqan](https://github.com/MahaAlHarqan)
